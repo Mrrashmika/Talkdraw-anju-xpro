@@ -51,7 +51,6 @@
     "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "pino": "^7.0.5",
-    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "pm2": "^5.2.0",
     "puppeteer": "^23.11.1",
     "qrcode": "1.5.4",
