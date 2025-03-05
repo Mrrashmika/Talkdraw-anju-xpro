@@ -34,7 +34,6 @@
 // */
 
 const fs = require('fs');
-const { SUDO } = require('./src/settings/config.cjs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
